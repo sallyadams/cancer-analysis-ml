@@ -15,6 +15,12 @@ End-to-end analysis of a breast cancer dataset to identify key predictors of mal
 - Boxplot comparison (radius_mean vs diagnosis)
 - Key features: radius, perimeter, area, concavity
 
+### 📊 Correlation Heatmap
+![Correlation Heatmap](heatmap.png)
+
+### 📦 Radius vs Diagnosis (Boxplot)
+![Boxplot](boxplot.png)
+
 ### 🤖 Model
 - Logistic Regression (train/test split 80/20)
 - Achieves high accuracy on test set
@@ -33,6 +39,3 @@ Python, Pandas, Seaborn, Matplotlib, scikit-learn
 
 ### 👩‍💻 Author
 Salamat Adams — Data Analyst | AI & Data Storytelling
-
-heatmap.png
-boxplot.png
