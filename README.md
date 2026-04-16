@@ -34,5 +34,5 @@ Python, Pandas, Seaborn, Matplotlib, scikit-learn
 ### 👩‍💻 Author
 Salamat Adams — Data Analyst | AI & Data Storytelling
 
-images/heatmap.png
-images/boxplot.png
+heatmap.png
+boxplot.png
